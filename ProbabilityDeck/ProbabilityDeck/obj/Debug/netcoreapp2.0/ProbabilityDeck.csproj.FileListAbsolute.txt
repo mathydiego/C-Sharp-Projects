@@ -1,0 +1,11 @@
+C:\Users\diheg\Desktop\C# Projects\ProbabilityDeck\ProbabilityDeck\bin\Debug\netcoreapp2.0\ProbabilityDeck.deps.json
+C:\Users\diheg\Desktop\C# Projects\ProbabilityDeck\ProbabilityDeck\bin\Debug\netcoreapp2.0\ProbabilityDeck.runtimeconfig.json
+C:\Users\diheg\Desktop\C# Projects\ProbabilityDeck\ProbabilityDeck\bin\Debug\netcoreapp2.0\ProbabilityDeck.runtimeconfig.dev.json
+C:\Users\diheg\Desktop\C# Projects\ProbabilityDeck\ProbabilityDeck\bin\Debug\netcoreapp2.0\ProbabilityDeck.dll
+C:\Users\diheg\Desktop\C# Projects\ProbabilityDeck\ProbabilityDeck\bin\Debug\netcoreapp2.0\ProbabilityDeck.pdb
+C:\Users\diheg\Desktop\C# Projects\ProbabilityDeck\ProbabilityDeck\obj\Debug\netcoreapp2.0\ProbabilityDeck.csprojAssemblyReference.cache
+C:\Users\diheg\Desktop\C# Projects\ProbabilityDeck\ProbabilityDeck\obj\Debug\netcoreapp2.0\ProbabilityDeck.csproj.CoreCompileInputs.cache
+C:\Users\diheg\Desktop\C# Projects\ProbabilityDeck\ProbabilityDeck\obj\Debug\netcoreapp2.0\ProbabilityDeck.AssemblyInfoInputs.cache
+C:\Users\diheg\Desktop\C# Projects\ProbabilityDeck\ProbabilityDeck\obj\Debug\netcoreapp2.0\ProbabilityDeck.AssemblyInfo.cs
+C:\Users\diheg\Desktop\C# Projects\ProbabilityDeck\ProbabilityDeck\obj\Debug\netcoreapp2.0\ProbabilityDeck.dll
+C:\Users\diheg\Desktop\C# Projects\ProbabilityDeck\ProbabilityDeck\obj\Debug\netcoreapp2.0\ProbabilityDeck.pdb
